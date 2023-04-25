@@ -1,0 +1,267 @@
+.aparpic
+{
+    border-radius: 25%;
+    height: 500;
+}
+
+.homeline
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60;
+}
+
+.homename
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-family: cursive;
+    font-size: 110;
+}
+
+#home
+{
+    text-align: center;
+    background-color: wheat;
+}
+
+.homepara
+{
+    text-decoration: none;
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-size: 40;
+}
+
+.locationline
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50;
+}
+
+.locationname
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 75;
+}
+
+#location
+{
+    text-align: center;
+    text-shadow: black;
+    background-color: lightcoral;
+}
+
+.or
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50;
+}
+
+#contact
+{
+    text-align: center;
+    text-shadow: black;
+    background-color: lightgreen;
+}
+
+.contactline
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-size: 40;
+    font-family: monospace;
+}
+
+.contactname
+{
+    text-align: center;
+    text-shadow: black;
+    font-weight: 300;
+    font-style: normal;
+    font-family: cursive;
+    font-size: 60;
+}
+
+.amma
+{
+    font-size: 30;
+}
+
+.amma:hover
+{
+    font-size: 33;
+}
+
+.appa
+{
+    font-size: 30;
+}
+
+.appa:hover
+{
+    font-size: 33;
+}
+
+.insta
+{
+    font-size: 30;
+}
+
+.insta:hover
+{
+    font-size: 33;
+}
+
+#facility
+{
+    text-align: center;
+    text-shadow: black;
+    background-color: skyblue;
+    color: black;
+    text-align: left;
+}
+
+.cl
+{
+    border-radius: 50%;
+    height: 750;
+    text-align: center;
+    align-items: center;
+    width: 800;
+}
+
+.facline
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-weight: 300;
+    font-family: Arial Black;
+    font-size: 40;
+}
+
+.facname
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-weight: 400;
+    font-family: cursive;
+    font-size: 60;
+}
+
+.facp
+{
+   float: left; 
+   font-size: 30;
+}
+
+#about
+{
+    text-align: center;
+    background-color: aqua;
+    text-shadow: black;
+    color: black;
+}
+
+.aboutline
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-weight: 300;
+    font-family: monospace;
+    font-size: 40;
+}
+
+.aboutname
+{
+    text-align: center;
+    text-shadow: black;
+    text-decoration: none;
+    font-weight: 400;
+    font-family: cursive;
+    font-size: 60;
+}
+
+.foot
+{
+    text-align: right;
+    text-shadow: black;
+    text-decoration: none;
+    font-weight: 300;
+    font-family: cursive;
+    font-size: 25;
+}
+
+.roof
+{
+    text-align: center;
+    height: 550;
+    border-radius: 50%;
+}
+
+.aboutp
+{
+    text-align: center;
+    text-shadow: black;
+    color: black;
+    font-weight: 300;
+    font-family: monospace;
+    font-size: 40;
+}
+
+.ap
+{
+    text-align: center;
+    font-size: 43;
+    color: black;
+    font-weight: 300;
+    font-family: arial black;
+}
+
+.pph
+{
+    text-align: center;
+    font-size: 43;
+    color: black;
+    font-weight: 300;
+    font-family: arial black;
+}
+
+#myNavbar
+{
+    font-weight: 200;
+    font-family: monospace;
+    font-size: 25;
+}
+
+#myNavbar:hover
+{
+    font-size: 30;
+    text-decoration: underline;
+}
+
+#hg
+{
+    font-size: 35;
+    font-weight: 500;
+    font-family: cursive;
+}
